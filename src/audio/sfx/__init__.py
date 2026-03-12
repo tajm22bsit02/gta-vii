@@ -1,0 +1,1 @@
+"""SFX manager module."""

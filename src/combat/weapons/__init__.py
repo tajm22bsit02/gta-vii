@@ -1,0 +1,1 @@
+"""Weapon system module."""

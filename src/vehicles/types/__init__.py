@@ -1,0 +1,1 @@
+"""Vehicle types module."""
